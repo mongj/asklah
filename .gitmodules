@@ -1,0 +1,6 @@
+[submodule "asklah-frontend"]
+	path = asklah-frontend
+	url = https://github.com/mongj/asklah-frontend
+[submodule "asklah-backend"]
+	path = asklah-backend
+	url = https://github.com/mongj/asklah-backend
